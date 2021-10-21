@@ -1,0 +1,10 @@
+C:\Users\Marina de Robles\source\repos\Assignment1-derobles\Assignment1-derobles\bin\Debug\Assignment1-derobles.exe.config
+C:\Users\Marina de Robles\source\repos\Assignment1-derobles\Assignment1-derobles\bin\Debug\Assignment1-derobles.exe
+C:\Users\Marina de Robles\source\repos\Assignment1-derobles\Assignment1-derobles\bin\Debug\Assignment1-derobles.pdb
+C:\Users\Marina de Robles\source\repos\Assignment1-derobles\Assignment1-derobles\obj\Debug\Assignment1-derobles.csproj.AssemblyReference.cache
+C:\Users\Marina de Robles\source\repos\Assignment1-derobles\Assignment1-derobles\obj\Debug\Assignment1_derobles.Form1.resources
+C:\Users\Marina de Robles\source\repos\Assignment1-derobles\Assignment1-derobles\obj\Debug\Assignment1_derobles.Properties.Resources.resources
+C:\Users\Marina de Robles\source\repos\Assignment1-derobles\Assignment1-derobles\obj\Debug\Assignment1-derobles.csproj.GenerateResource.cache
+C:\Users\Marina de Robles\source\repos\Assignment1-derobles\Assignment1-derobles\obj\Debug\Assignment1-derobles.csproj.CoreCompileInputs.cache
+C:\Users\Marina de Robles\source\repos\Assignment1-derobles\Assignment1-derobles\obj\Debug\Assignment1-derobles.exe
+C:\Users\Marina de Robles\source\repos\Assignment1-derobles\Assignment1-derobles\obj\Debug\Assignment1-derobles.pdb
